@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
     public boolean canJump(int[] nums) {
         int farthest = 0;
 
